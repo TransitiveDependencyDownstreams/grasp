@@ -1,10 +1,10 @@
-Grasp is a browser extension for [Chrome](https://chrome.google.com/webstore/detail/org-grasp/ohhbcfjmnbmgkajljopdjcaokbpgbgfa) and [Firefox](https://addons.mozilla.org/en-US/firefox/addon/grasp), which adds a button/keybinding to capture current page title and url,
+Grasp is a browser extension for [Chrome](https://chrome.google.com/webstore/detail/org-grasp/ohhbcfjmnbmgkajljopdjcaokbpgbgfa) and [Firefox](https://addons.mozilla.org/firefox/addon/grasp), which adds a button/keybinding to capture current page title and url,
 possibly selected text, additional comments or tags and adds it into your [Org Mode](https://orgmode.org/) file.
 
 [Screenshot](https://user-images.githubusercontent.com/291333/51799721-a984eb80-221c-11e9-9612-8eb7f553dc01.png), [short demo](https://www.youtube.com/watch?v=Z8Bk-IazdGo).
 
 - [Chrome](https://chrome.google.com/webstore/detail/org-grasp/ohhbcfjmnbmgkajljopdjcaokbpgbgfa)
-- [Firefox](https://addons.mozilla.org/en-US/firefox/addon/grasp)
+- [Firefox](https://addons.mozilla.org/firefox/addon/grasp)
 - or, install from a zip: [releases](https://github.com/karlicoss/grasp/releases).
 
 # Running
